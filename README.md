@@ -1,1 +1,1 @@
-# projects
+# Lottery Number Generator
