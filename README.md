@@ -17,7 +17,6 @@ Lottery number generator is a simple command-line tool that can generate unique 
 
 ### Executing program
 
-* Execute the program
 * Input value between 1 and 3 to indicate which lottery game of choice
 * Input value between 1 and 100 to indicate the desired number of plays
 
