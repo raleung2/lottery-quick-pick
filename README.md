@@ -30,8 +30,8 @@ command to run if program contains helper info
 
 ## Authors
 
-* Rafferty Leung
-* raffertyleung98@gmail.com
+Rafferty Leung
+raffertyleung98@gmail.com
 
 ## Version History
 
