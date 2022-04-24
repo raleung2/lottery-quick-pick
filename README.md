@@ -4,29 +4,26 @@ This simple lottery number generator generates values in accordance to three lot
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Lottery number generator is a simple command-line tool that can generate unique values for three lottery games: Mega Millions, Powerball, and SuperLotto. It can generate up to 100 plays (lines) of unique values for each play.
 
 ## Getting Started
 
+* IDE must already be installed in your computer order to use this tool
+
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Install any Java IDE of your choice
+* Import relevant files 
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Execute the program
+* Input value between 1 and 3 to indicate which lottery game of choice
+* Input value between 1 and 100 to indicate the desired number of plays
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Enterred values must be within the specified range or the program will keep looping to get a value within the desired range.
 
 ## Authors
 
