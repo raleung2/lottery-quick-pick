@@ -32,7 +32,7 @@ raffertyleung98@gmail.com
 ## Version History
 
 * 0.1
-    * Initial Release
+    * Initial Release 04/2022
 
 ## Acknowledgments
 
