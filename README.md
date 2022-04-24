@@ -27,7 +27,6 @@ Enterred values must be within the specified range or the program will keep loop
 ## Authors
 
 Rafferty Leung
-
 raffertyleung98@gmail.com
 
 ## Version History
