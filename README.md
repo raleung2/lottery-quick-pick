@@ -26,13 +26,16 @@ Enterred values must be within the specified range or the program will keep loop
 
 ## Authors
 
-Rafferty Leung
-raffertyleung98@gmail.com
+Rafferty Leung (raffertyleung98@gmail.com)
 
 ## Version History
 
 * 0.1
     * Initial Release 04/2022
+
+## License
+
+
 
 ## Acknowledgments
 
