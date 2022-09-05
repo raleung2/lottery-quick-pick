@@ -1,6 +1,6 @@
 # Lottery Number Generator
 
-This simple lottery number generator generates values in accordance to three lottery game rules: Mega Millions, Powerball, and SuperLotto.
+This simple, CLI lottery number generator generates values in accordance to three lottery game rules: Mega Millions, Powerball, and SuperLotto.
 
 ## Description
 
@@ -30,8 +30,7 @@ Rafferty Leung (raffertyleung98@gmail.com)
 
 ## Version History
 
-* 0.1
-    * Initial Release 04/2022
+* Initial Release 04/2022
 
 ## License
 
